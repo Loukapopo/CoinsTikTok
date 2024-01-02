@@ -2,7 +2,7 @@
  
 
 {
-  "requires": true,
+  "requires": true,s
   "lockfileVersion": 1,
   "dependencies": {
     "@alloc/quick-lru": {
